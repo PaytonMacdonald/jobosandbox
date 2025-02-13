@@ -8,23 +8,23 @@
 </template>
 
 <script>
-import MyComponent from './components/MyComponent.vue';
-
-export default {
-  name: 'App',
-  components: {
-    MyComponent,
-  },
-};
-
-// import HelloWorld from './components/HelloWorld.vue'
+// import MyComponent from './components/MyComponent.vue';
 
 // export default {
 //   name: 'App',
 //   components: {
-//     HelloWorld
-//   }
-// }
+//     MyComponent,
+//   },
+// };
+
+import HelloWorld from './components/HelloWorld.vue'
+
+export default {
+  name: 'App',
+  components: {
+    HelloWorld
+  }
+};
 </script>
 
 <style>
