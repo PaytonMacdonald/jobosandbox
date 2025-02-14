@@ -1,6 +1,6 @@
 <template>
     <div>
-      <h2>My Custom Component</h2>
+      <h2>My Custom Component for JOBO</h2>
     </div>
   </template>
   
